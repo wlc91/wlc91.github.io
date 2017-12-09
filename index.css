@@ -1,0 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico|Satisfy);
+
+.font-Pacifico {
+    font-family: 'Pacifico', cursive;
+}
+
+.font-Satisfy {
+    font-family: 'Satisfy', cursive;
+}
+
+body {
+    font-family: 'Pacifico', 'Satisfy', cursive;
+}
